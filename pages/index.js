@@ -25,6 +25,7 @@ export default function Home({ allPostsData }) {
         <p>
           I am Priyanshu I am a front end developer. You can contact me on
           <Link href="https://x.com/MrPriyanshu0" target="_blank">
+            {" "}
             twitter
           </Link>
           .
